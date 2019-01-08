@@ -1,0 +1,12 @@
+with open('translate_english.txt', 'r', encoding='UTF-8') as f1:
+    list1 = f1.readlines()
+#print(list1[1])
+#help(list1)
+list2=list1
+for i in range(len(list1)):
+    list2[i]=list1[i][0:list1[i].find('\t')+1]+list1[i][1:list1[i].find('\t')]+'\n'
+#print(list2)
+with open('translate_english2.txt', 'w') as f:
+    f.writelines(list2)
+
+a=input()

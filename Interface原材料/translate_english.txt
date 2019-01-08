@@ -1,0 +1,382 @@
+$ TO PLACE	 放入几率
+$ TO STEAL	 扒窃几率
+$10 Mins	10分钟
+$15 Mins	15分钟
+$30 Mins	30分钟
+$360 Controller	360控制器
+$45 Mins	45分钟
+$5 Mins	5分钟
+$60 Mins	60分钟
+$Accept	接受
+$Activate	互动
+$Actor Fade	角色淡出
+$Add	新增
+$Animals Killed	动物击杀数
+$ARMOR	护甲
+$Armor Improved	升级护甲次数
+$Armor Made	护甲制造数
+$Armor Rating	护甲值
+$Arrows	箭
+$Assaults	主动袭击次数
+$Audio	音频设置
+$Auto-Move	自动移动
+$Automatons Killed	自动人偶击杀数
+$Autosave Timer	自动存档计时
+$Back	后退
+$Backstabs	背刺次数
+$Barters	交易次数
+$Books Read	阅读过的书本数
+$Brawls Won	打架胜场数
+$Bribes	贿赂次数
+$Brightness	画面亮度
+$Bunnies Slaughtered	兔子击杀数
+$Buy	买入
+$Cancel	取消
+$Carry Weight	负重
+$Charge	充能
+$Charges	充能上限
+$CHARGES	充能上限
+$Chests Looted	搜刮过的箱子数
+$Civil War Quests Completed	内战任务完成数
+$College of Winterhold Quests Completed	冬堡学院任务完成数
+$COMBAT	战斗
+$Conjuration	召唤
+$CONTINUE	CONTINUE
+$Controls	操作设置
+$CONTROLS	操作设置
+$Cost	费用
+$COST	消耗
+$CRAFTING	制作
+$Crafting_$DLC2ArmorBonemold	骨模
+$Crafting_$DLC2ArmorChitin	甲壳
+$Crafting_$DLC2ArmorNordic	诺德
+$Crafting_$DLC2ArmorStalhrim	魔冰
+$Creatures Killed	生物击杀数
+$CREDITS	制作团队
+$CRIME	犯罪
+$Critical Strikes	暴击次数
+$Crosshair	准星
+$Current Location	目前位置
+$Daedra Killed	魔族击杀数
+$Daedric Quests Completed	魔族任务完成数
+$DAMAGE	伤害值
+$Damage	伤害值
+$Dawnguard Quests Completed	黎明守卫任务完成数
+$DAWNGUARD_ESMName	黎明守卫
+$Days as a Vampire	吸血鬼时光
+$Days as a Werewolf	狼人时光
+$Days Jailed	坐牢日数
+$Days Passed	经过日数
+$Defaults	恢复默认
+$Delete	删除
+$Delete this save?	要删除这个存档吗？
+$Desktop	回到桌面
+$DETECTED	已被察觉
+$Dialogue Subtitles	对话字幕
+$Difficulty	游戏难度
+$Disabled	关闭
+$Diseases Contracted	染病次数
+$Display	显示设置
+$Done	完成
+$DOWNLOADABLE CONTENT	下载内容
+$DOWNLOADABLE CONTENT_PS3	下载内容
+$Dragon Souls Collected	龙魂收集数
+$Dragonborn Quests Completed	龙裔任务完成数
+$DRAGONBORN_ESMName	龙裔
+$Dragons Killed	龙族击杀数
+$Drop	丢弃
+$Dungeons Cleared	地下城净空数
+$Eastmarch Bounty	东陲悬赏金
+$Easy	学徒
+$Eat	食用
+$Effects	效果
+$Equip	装备
+$Exit	离开
+$FACTION	组织
+$Falkreath Bounty	佛克瑞斯悬赏金
+$Favorite	加入偏好分类
+$Favorite School	偏好的魔法派系
+$Favorite Shout	偏好的龙吼
+$Favorite Spell	偏好的法术
+$Favorite Weapon	偏好的武器
+$Favorites	偏好分类
+$Fines Paid	已付罚金
+$Food Eaten	吃下的食物
+$Footsteps	脚步
+$Forward	前进
+$Gameplay	游戏设置
+$GENERAL	常规
+$GENERAL STATS	统计
+$General Subtitles	普通字幕
+$Give	放入
+$GIVE GIFT	送礼
+$Gold	金币
+$Gold Found	金币寻获数
+$Grass Fade	草地淡出
+$Haafingar Bounty	海芬加悬赏金
+$Hard	专家
+$Health	生命
+$HEALTH	生命力
+$HEARTHFIRES_ESMName	炉火之心
+$HELP	游戏帮助
+$HIDDEN	潜行中
+$Hjaalmarch Bounty	希雅陲悬赏金
+$HK10	AXE
+$HK11	DGR
+$HK12	BOW
+$HK13	SHD
+$HK14	GSW
+$HK15	BTX
+$HK16	WHM
+$HK17	DWL
+$HK18	DWR
+$HK19	灵魂
+$HK20	FLM
+$HK21	ZAP
+$HK22	CLD
+$HK23	WRD
+$HK24	RIT
+$HK25	BWPN
+$HK26	SUMM
+$HK27	ARMR
+$HK28	CLM
+$HK29	FRNZ
+$HK30	HEAL
+$HK31	HP
+$HK32	MP
+$HK33	SP
+$HK34	PSN
+$HK35	LGHT
+$HK36	XBOW
+$HK8	SWD
+$HK9	MCE
+$Horses Owned	拥有马匹数
+$Horses Stolen	偷窃马匹数
+$hour	小时
+$hours	小时
+$Hours Slept	睡眠时数
+$Hours Waiting	等待时数
+$Houses Owned	拥有房屋数
+$How many?	决定数量？
+$HUD Opacity	HUD透明度
+$Ingredients Eaten	吃下材料数
+$Ingredients Harvested	采集材料数
+$Input Mapping	输入配置
+$Intimidations	威吓次数
+$Inv/INV	反转设定
+$Invert Y	反转Y轴
+$Item Fade	道具淡出
+$ITEMS	道具
+$Items Pickpocketed	扒窃道具数
+$Items Stolen	偷窃道具数
+$Jail Escapes	逃狱次数
+$Journal	冒险日志
+$Jump	跳跃
+$Kinect	Kinect
+$Kinect Tuner	Kinect Tuner
+$Large	大
+$Largest Bounty	最高悬赏金
+$Left Attack/Block	左手
+$Legendary	传奇
+$LEVEL	等级
+$Level	等级
+$Level Progress	升级状况
+$LEVEL UP	升级
+$Light Fade	高光淡出
+$Listening	听力
+$LOAD	读取
+$Load this game?	确定要读取这个存档？
+$Load this game? All unsaved progress will be lost.	要读取此存档吗？未保存进度将丢失。
+$Loading downloadable content...	读取下载内容中……
+$Loading downloadable content..._PS3	读取拓展内容加与下载内容中。请稍候……
+$Loading extra content.	读取下载内容中……
+$Loading extra content._PS3	读取拓展内容
+$Local Map	本地地图
+$Locations Discovered	发现地点数
+$Lock Level	锁等级
+$Lockpicking	开锁
+$Lockpicks Broken	开锁器损毁数
+$Lockpicks Left	开锁器
+$Locks Picked	成功开锁数
+$Look Sensitivity	灵敏度
+$lvl	级
+$Mag	魔法
+$MAGIC	魔法
+$Magic Items Made	魔法道具制造数
+$Magicka	法力
+$MAGICKA	法力
+$Main Menu	主菜单
+$Main Quests Completed	主线任务完成数
+$MAP	地图
+$Marketplace	Xbox LIVE 游戏商场
+$Master	主音量
+$Mauls	狼人状态击杀数
+$Medium	中
+$Menus	菜单
+$min	分钟
+$mins	分钟
+$Misc Objectives Completed	杂项任务完成数
+$MISCELLANEOUS	杂项
+$Most Gold Carried	最大金币携带数
+$Mouse Acceleration	鼠标加速
+$Murders	谋杀人数
+$Music	音乐
+$NAME	姓名
+$Necks Bitten	吸血次数
+$NEW	新冒险
+$New content available	有新的内容！
+$Next/Prev	上一页/下一页
+$Nirnroots Found	奈恩根寻得数
+$No	否
+$No content downloaded	未下载任何内容
+$No content downloaded_PS3	未下载任何内容
+$Normal	老手
+$Object Fade	物件淡出
+$Object LOD Fade	物件远景淡出
+$OBJECTIVES	目标
+$OK	确定
+$Open Xbox LIVE Marketplace?	开启 Xbox LIVE 游戏卖场?
+$Pause	系统选项
+$People Killed	杀人数
+$per sec	每秒
+$Perks to increase:	额外能力点数：
+$Persuasions	说服次数
+$Player Gold	金币
+$Pockets Picked	成功扒窃次数
+$Poisons Mixed	毒药调和次数
+$Poisons Used	毒药使用次数
+$Potions Mixed	药水调和次数
+$Potions Used	药水使用次数
+$Power	特殊能力  
+$Press a button to map to this action.	按下按钮以指定动作。
+$Press [START]	PRESS START
+$QUEST	任务
+$Questlines Completed	任务线完成数
+$QUESTS	任务
+$Quests Completed	任务完成数
+$Quick Inventory	物品栏
+$Quick Magic	魔法栏
+$Quick Map	地图
+$Quick Stats	能力界面
+$Quickload	快速读取
+$Quicksave	快速保存
+$QUIT	离开游戏
+$Quit to desktop?  Any unsaved progress will be lost.	退出到桌面？所有未保存的存档将会丢失。
+$Quit to main menu?  Any unsaved progress will be lost.	确定要离开游戏返回主菜单？所有未保存存档将会丢失。
+$RACE	种族
+$Read	阅读
+$Ready Weapon	武器收拔
+$RECHARGE	再次充能
+$Reset settings to default values?	确定要恢复默认值吗？
+$Rest how long?	想要休息多久？
+$Right Attack/Block	右手
+$Rotate Lock	旋转锁
+$Rotate Pick	调整开锁器
+$Run	行走
+$SAVE	保存
+$Save on Pause	菜单自动存档
+$Save on Rest	睡眠自动存档
+$Save on Travel	旅行自动存档
+$Save on Wait	等待自动存档
+$Save over this game?	确定要覆盖这个存档吗？
+$Saving content. Please don't turn off your console.	存档保存中，请勿关闭主机电源。
+$Saving...	保存中……
+$sec	秒
+$secs	秒
+$Select	选择
+$Select items to craft	选择想要制作的道具
+$Sell	卖出
+$Set Destination	设定目的地
+$SETTINGS	选项
+$Shadow Fade	阴影淡出
+$Shout	龙吼/特殊能力
+$Shouts Learned	习得龙吼数
+$Shouts Mastered	精通龙吼数
+$Shouts Unlocked	解锁龙吼数
+$Show Floating Markers	浮动标记
+$Show on Map	于地图标示
+$Side Quests Completed	支线任务完成数
+$Skill Books Read	技能书阅读数
+$Skill Increases	技能提升次数
+$SKILLS	技能
+$Small	小
+$Sneak	潜行
+$Sneak Attacks	潜行攻击次数
+$Soul Gems Used	灵魂石使用数
+$Souls Trapped	受困灵魂数量
+$Specularity Fade	反射淡出
+$Spells Learned	已习得法术
+$Sprint	冲刺
+$Stamina	体力
+$STAMINA	体力
+$Standing Stones Found	立石发现数
+$Steal	偷窃
+$Stolen	赃物
+$Store	存放
+$Stores Invested In	投资的店铺数量
+$Strafe Left	左移
+$Strafe Right	右移
+$SYSTEM	系统
+$Take	拿取
+$Take All	全部拿取
+$TAKE GIFT	选取礼物
+$Texture Size	材质尺寸
+$That button is reserved.	这个按钮已分配。
+$The Companions Quests Completed	战友团任务完成数
+$The Dark Brotherhood Quests Completed	黑暗兄弟会任务完成数
+$The Pale Bounty	苍原悬赏金
+$The Reach Bounty	边塞悬赏金
+$The Rift Bounty	裂谷悬赏金
+$Thieves' Guild Quests Completed	盗贼公会任务完成数
+$Times Jailed	坐牢次数
+$Times Married	结婚次数
+$Times Shouted	龙吼次数
+$Times Trained This Level	在这个等级受训次数
+$Toggle Active	设为进行中
+$Toggle Always Run	行走模式
+$Toggle POV	视角
+$TooFast	Too Fast
+$TooLoud	Too Loud
+$TooNoisy	Too Noisy
+$TooQuiet	Too Quiet
+$TooSlow	Too Slow
+$Total Lifetime Bounty	生涯悬赏金总计
+$Train	训练
+$Trainer	训练师
+$Training Sessions	训练过程
+$Tree LOD Fade	树木细节等级淡出
+$Trespasses	非法入侵次数
+$Tribal Orcs Bounty	兽人部落悬赏金
+$TryAgain	再试一次
+$Turn Pages	翻页
+$Tween Menu	角色菜单
+$Undead Killed	不死生物击杀数
+$Unfavorite	解除偏好分类
+$UNKNOWN	不明
+$Unlock	解锁
+$Use	使用
+$Use Kinect Commands	使用 Kinect 命令
+$VALUE	价值
+$Vampirism Cures	吸血鬼病治愈次数
+$Vendor Gold	商人金币
+$Very Easy	新手
+$Very Hard	大师
+$Vibration	震动
+$Voice	语音
+$Wait	原地等待
+$Wait how long?	想要等待多久？
+$Weapons Disarmed	缴械武器次数
+$Weapons Improved	升级武器次数
+$Weapons Made	武器制造数
+$WEIGHT	重量
+$Werewolf Transformations	变身狼人次数
+$Whiterun Bounty	白漫城悬赏金
+$Wings Plucked	摘下的翅膀数
+$Winterhold Bounty	冬堡悬赏金
+$Words Of Power Learned	力量之语习得数
+$Words Of Power Unlocked	力量之语解锁数
+$World Map	世界地图
+$Yes	是
+$You leveled up!  Choose an attribute to advance:	你升级了！选择一个想提升的属性：
+$Zoom	缩放
+$[NEW SAVE]	[NEW SAVE]
